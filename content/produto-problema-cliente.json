@@ -1,0 +1,11 @@
+{
+  "slug": "produto-problema-cliente",
+  "title": "O cliente não compra funcionalidades",
+  "slides": [
+    {"eyebrow": "ESTRATÉGIA DE PRODUTO", "title": "Seu cliente não compra funcionalidades.", "body": "Ele busca uma forma melhor de resolver um problema.", "symbol": "compass"},
+    {"eyebrow": "01 / CONTEXTO", "title": "A lista de recursos não é uma proposta de valor.", "body": "Descrever o que o produto faz é diferente de explicar o que muda na vida de quem usa.", "symbol": "key"},
+    {"eyebrow": "02 / PERGUNTA", "title": "Qual progresso o cliente quer fazer?", "body": "Investigue o contexto, os obstáculos, as alternativas e o resultado desejado antes de priorizar entregas.", "symbol": "eye"},
+    {"eyebrow": "03 / DECISÃO", "title": "Traduza recursos em resultados.", "body": "Troque 'tem dashboard' por 'acompanhe indicadores sem consolidar planilhas manualmente'.", "symbol": "sun"},
+    {"eyebrow": "04 / PRÁTICA", "title": "Comece pelo problema. Depois, escolha a solução.", "body": "Uma boa narrativa de produto conecta necessidade, benefício e evidência.", "symbol": "star"}
+  ]
+}
