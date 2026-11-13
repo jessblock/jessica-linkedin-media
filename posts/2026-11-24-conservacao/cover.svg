@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#142D36"/>
+<rect x="30" y="30" width="1020" height="1290" fill="none" stroke="#CDB083" stroke-width="2"/>
+<rect x="45" y="45" width="990" height="1260" fill="none" stroke="#CDB083" stroke-width=".7" opacity=".55"/>
+<g fill="none" stroke="#D9BE90" stroke-width="1.7" opacity=".9">
+<path d="M80 80h100m-100 0v100 M1000 80h-100m100 0v100 M80 1270h100m-100 0v-100 M1000 1270h-100m100 0v-100"/>
+<circle cx="540" cy="95" r="10"/><path d="M540 68v54M513 95h54"/>
+<path d="M230 95h240M610 95h240"/>
+<path d="M145 464h790 M145 1137h790"/>
+</g>
+<text x="540" y="167" fill="#D8BC8E" font-family="DejaVu Sans, sans-serif" font-size="22" letter-spacing="6" text-anchor="middle">CADERNO DE DECISÕES  /  Nº 01</text>
+<text x="540" y="262" fill="#F1E7D8" font-family="Liberation Serif, DejaVu Serif, serif" font-size="72" text-anchor="middle">UMA MUDANÇA</text>
+<text x="540" y="338" fill="#F1E7D8" font-family="Liberation Serif, DejaVu Serif, serif" font-size="72" text-anchor="middle">DEVE DEIXAR</text>
+<text x="540" y="414" fill="#D8BC8E" font-family="Liberation Serif, DejaVu Serif, serif" font-size="82" font-style="italic" text-anchor="middle">RASTROS</text>
+<!-- central museum illustration: original outlines only -->
+<g fill="none" stroke="#D8BC8E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="243" y="516" width="594" height="524" rx="3"/>
+<rect x="264" y="537" width="552" height="482"/>
+<rect x="288" y="561" width="504" height="434" stroke-width="1.3"/>
+<path d="M313 947h454M326 930l86-91 72 46 100-127 90 65 79-88" stroke="#8AA5A0" stroke-width="2.5"/>
+<path d="M395 850V692Q395 636 453 636H625Q685 636 685 692V850" stroke="#D8BC8E" stroke-width="3"/>
+<path d="M423 844V703Q423 667 460 667H617Q657 667 657 703V844" stroke="#D8BC8E" stroke-width="1.6"/>
+<path d="M482 840V735M540 840V735M598 840V735" stroke="#D8BC8E" stroke-width="1.6"/>
+<path d="M463 725h154M463 839h154" stroke="#D8BC8E" stroke-width="2"/>
+<path d="M542 669l-19 44 24 38-19 41 25 45" stroke="#A76368" stroke-width="4"/>
+<path d="M540 669l7 35-12 22 13 26-8 25 14 30" stroke="#D8BC8E" stroke-width="1.7"/>
+<circle cx="721" cy="633" r="55" stroke="#D8BC8E" stroke-width="2"/>
+<path d="M758 673l58 59M814 728l13 19" stroke-width="8"/>
+<path d="M701 622h40m-20-20v40" stroke-width="1.4"/>
+</g>
+<g fill="none" stroke="#8AA5A0" stroke-width="1.6" stroke-dasharray="7 9">
+<path d="M319 590l120 96"/><path d="M760 971l-110-130"/>
+</g>
+<g fill="#D8BC8E" font-family="DejaVu Sans, sans-serif" font-size="16" letter-spacing="2.5">
+<text x="302" y="588">01 / ANTES</text><text x="655" y="976">02 / DEPOIS</text>
+</g>
+<text x="540" y="1107" fill="#E8D9C7" font-family="Liberation Serif, DejaVu Serif, serif" font-size="31" font-style="italic" text-anchor="middle">O que mudou, por quê e com quais efeitos?</text>
+<text x="540" y="1200" fill="#D8BC8E" font-family="DejaVu Sans, sans-serif" font-size="21" letter-spacing="4" text-anchor="middle">PRODUTO × CONSERVAÇÃO DE ARTE</text>
+<text x="540" y="1244" fill="#8AA5A0" font-family="DejaVu Sans, sans-serif" font-size="16" letter-spacing="3" text-anchor="middle">DOCUMENTAR   •   OBSERVAR   •   REVERTER</text>
+</svg>
